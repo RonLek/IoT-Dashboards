@@ -1,5 +1,7 @@
 # IOT-Project
-Dashobard of Covid-19 and Deforestation-Rainfall 
+Dashobards for Covid-19 and Deforestation-Rainfall
+
+Built as a part of the **Internet of Things and Sensor Data Visualization (Spring 2021)** course by **Karan Khanna**, **Saloni Tripathi** and **Rohan Lekhwani**.
 
 Deforestation-Rainfall:
 
